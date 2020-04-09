@@ -13,6 +13,6 @@
  6)
  
  
- Personal project
+ Personal projects
  
  
