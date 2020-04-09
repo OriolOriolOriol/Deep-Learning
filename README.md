@@ -2,7 +2,7 @@
  
  1) Homework on Feed-forward and Back-propagation
  
- 2)
+ 2) HomeWork 2: Optimize and train Deep Models
  
  3)
  
