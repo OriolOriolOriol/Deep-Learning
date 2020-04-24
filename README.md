@@ -1,6 +1,6 @@
 ﻿Homework (UNIPD) = 6 Homework
  
- 1) Homework 1: Feed-forward and Back-propagation with Perceptron algorithm
+ 1) HomeWork 1: Feed-forward and Back-propagation with Perceptron algorithm
  
  2) HomeWork 2: Optimize and train Deep Models
  
