@@ -4,7 +4,7 @@
  
  2) HomeWork 2: Optimize and train Deep Models
  
- 3)
+ 3) HomeWork 3: Convolutional Neural Network (CNN)
  
  4)
  
