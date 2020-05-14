@@ -6,7 +6,7 @@
  
  3) HomeWork 3: Convolutional Neural Network (CNN)
  
- 4)
+ 4) HomeWork 4: Recurrent Neural Network (RNN)
  
  5)
  
