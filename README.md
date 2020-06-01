@@ -8,7 +8,7 @@
  
  4) HomeWork 4: Recurrent Neural Network (RNN)
  
- 5) Homework 5: Autoencoder
+ 5) HomeWork 5: Autoencoder
  
  6)
  
