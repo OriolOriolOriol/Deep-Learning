@@ -10,7 +10,7 @@
  
  5) HomeWork 5: Autoencoder
  
- 6)
+ 6) Homework 6: Variational Autoencoder (VAE)
  
  
  Personal projects
