@@ -1,4 +1,7 @@
-﻿Homework (UNIPD) = 6 Homework
+﻿# Course Deep Learning at University of Padua
+Homework (UNIPD) = 6 Homework
+
+All of these project are made using **Google Colab**
  
  1) HomeWork 1: Feed-forward and Back-propagation with Perceptron algorithm
  
